@@ -51,13 +51,7 @@ pip install -r requirements.txt
 python copyright.py
 ```
 
-#### 5. Deploy to StackHost (Optional):
 
-<div align="left">
-  <a href="https://t.me/StackHost">
-     <img src="https://graph.org/file/7e91d83f67d20f158cfdc.jpg" alt="Deploy On StackHost" width="150" />
-  </a>
-</div>
 
 ## Commands List 📋
 
