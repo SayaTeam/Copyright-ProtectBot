@@ -15,10 +15,10 @@ import traceback
 from apscheduler.schedulers.background import BackgroundScheduler
 
 
-API_ID = 29593257
-API_HASH = "e9a3897c961f8dce2a0a88ab8d3dd843"
-BOT_TOKEN = "7370306201:AAGoUHzBkSSQYyEbEzIKMNNksAMD81EbObc"
-DEVS = [5690711835, 6312693124]
+API_ID =0
+API_HASH = ""
+BOT_TOKEN = ""
+DEVS = [5940554521, 8385024789]
 BOT_USERNAME = "BOT" # change your bot username without @
 
 ALL_GROUPS = []
@@ -182,7 +182,7 @@ async def better(client, update, _, __):
                 
                 await client.send_message(
                     chat_id=chat_id,
-                    text=f"{user.mention} just edited a message, and I deleted it 🐸."
+                    text=f"{user.mention} just edited a message, and I deleted it."
                 )
         except Exception as ex:
             print("Error occurred:", traceback.format_exc())
