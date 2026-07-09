@@ -24,7 +24,7 @@
 #### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Vishal-1756/Copyright-ProtectBot.git
+git clone https://github.com/SayaTeam/Copyright-ProtectBot.git
 cd Copyright-ProtectBot
 ```
 
