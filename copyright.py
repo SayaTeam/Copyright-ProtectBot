@@ -15,11 +15,11 @@ import traceback
 from apscheduler.schedulers.background import BackgroundScheduler
 
 
-API_ID =0
-API_HASH = ""
-BOT_TOKEN = ""
+API_ID =30422005
+API_HASH = "5170ded206641d73215baf40175a6924"
+BOT_TOKEN = "8672398689:AAHVTA0c0SlKJehHVeNL4pgAC7eky-qtFoo"
 DEVS = [5940554521, 8385024789]
-BOT_USERNAME = "BOT" # change your bot username without @
+BOT_USERNAME = "DnaAudioBot" # change your bot username without @
 
 ALL_GROUPS = []
 TOTAL_USERS = []
